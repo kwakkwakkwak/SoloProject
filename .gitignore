@@ -1,0 +1,7 @@
+# Created by .ignore support plugin (hsz.mobi)
+*.iml
+/lib/
+target/generated-sources/
+.idea/
+target/
+.DS_Store
